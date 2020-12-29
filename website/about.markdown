@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Amelia is currently a Junior Research Fellow at Homerton College, Cambridge.
+<img src="https://raw.githubusercontent.com/amelialdrew/amelialdrew.github.io/gh-pages/website/ProfilePicture.png" width="200" style="float:right">
 
-Source code for [GRChombo](https://github.com/GRChombo)
+Amelia is currently a Junior Research Fellow at Homerton College, Cambridge. Her research focuses on radiative signatures from cosmic strings using adaptive mesh refinement (AMR). She is also a core developer of the [GRChombo](https://github.com/GRChombo) AMR code.
 
-![Profile Picture](./Screenshot 2020-11-17 at 13.31.23.png)
+Amelia undertook her PhD, Masters and Undergraduate degrees at Gonville and Caius College, Cambridge.
+
+Amelia's Homerton College webpage can be found [here](https://www.homerton.cam.ac.uk/node/26157).
+
+
+
+
