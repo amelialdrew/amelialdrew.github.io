@@ -17,7 +17,7 @@ order: 4
 
 2020 - Video for Intel on the use of Intel oneAPI Toolkit
 
-<img src="https://amelialdrew.github.io/outreach/Screenshot 2020-12-29 at 17.17.44.png" style="float:right">
+<img src="https://amelialdrew.github.io/outreach/Screenshot.png" style="float:right">
 
 2020 - Featured in the documentary ["Universe Unravelled"](https://www.discoveryplus.co.uk/show/universe-unravelled-with-the-stephen-hawking-centre) for Discovery+. Articles on the [Gonville and Caius](https://www.cai.cam.ac.uk/news/universe-unravelled-researchers-stephen-hawking-centre-including-caian-amelia-drew-explain) and [DAMTP](http://www.ctc.cam.ac.uk/news/01Discovery.php) websites.
 
