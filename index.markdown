@@ -5,8 +5,6 @@
 layout: home
 ---
 
-![](ParaviewSnapshotMasslessAmp4Tilted.png)
+![Global cosmic string with massless quadrupole radiation](ParaviewSnapshotMasslessAmp4Tilted.png)
 
-Quadrupole massless radiation emitted from a global cosmic string
-
-Image created in collaboration with Intel Advanced Rendering and Visualisation Team
+<sup>Image created together with Carson Brownlee, Intel® Advanced Rendering and Visualization Team<sup>

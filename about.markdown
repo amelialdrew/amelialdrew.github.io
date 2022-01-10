@@ -6,10 +6,10 @@ order: 1
 ---
 <img src="https://amelialdrew.github.io/about/ProfilePicture.png" width="200" style="float:right">
 
-Amelia is a Junior Research Fellow at Homerton College, University of Cambridge. Her research focuses on radiative signatures from cosmic strings and numerical relativity using adaptive mesh refinement (AMR). She is a core developer of the [GRChombo](https://www.grchombo.org/) AMR code.
+Hello! I am a Junior Research Fellow in Theoretical Physics at Homerton College, University of Cambridge, based at the Department of Applied Mathematics and Theoretical Physics (DAMTP). My research focuses on numerical simulation of radiative signatures from cosmic (axion) strings (e.g. see [homepage](https://amelialdrew.github.io/)) using adaptive mesh refinement (AMR). I am also a developer and user of [GRChombo](https://www.grchombo.org/), an open-source AMR code for numerical relativity.
 
-Amelia undertook her PhD, Masters and Undergraduate degrees at Gonville and Caius College, University of Cambridge.
+My CV, publications/preprints, outreach and personal hobbies.
 
-Amelia's Homerton College webpage can be found [here](https://www.homerton.cam.ac.uk/people/amelia-drew).
+My Homerton College webpage can be found [here](https://www.homerton.cam.ac.uk/people/amelia-drew).
 
 _Last updated Jan 2022_
