@@ -28,7 +28,7 @@ twitter_username: AmeliaDrew4
 github_username:  amelialdrew
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
