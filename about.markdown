@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 order: 1
 ---
-
-<img src="https://amelialdrew.github.io/gh-pages/" width="200" style="float:right">
+<img src="https://amelialdrew.github.io/gh-pages/about/ProfilePicture.png" width="200" style="float:right">
 
 Amelia is a Junior Research Fellow at Homerton College, University of Cambridge. Her research focuses on radiative signatures from cosmic strings and numerical relativity using adaptive mesh refinement (AMR). She is a core developer of the [GRChombo](https://www.grchombo.org/) AMR code.
 
