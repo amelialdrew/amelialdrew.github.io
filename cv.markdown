@@ -1,0 +1,56 @@
+---
+layout: page
+title: CV
+permalink: /CV/
+order: 2
+---
+
+***
+
+#### __Employment and Education__
+
+Oct 2021 - present:  Director of Studies, [Homerton College](https://www.homerton.cam.ac.uk/), University of Cambridge
+
+Oct 2020 - present:  [Junior Research Fellow](https://www.homerton.cam.ac.uk/people/amelia-drew), Homerton College, University of Cambridge
+
+October 2016 - Dec 2020:  PhD in Theoretical Physics, [DAMTP](https://www.damtp.cam.ac.uk/), University of Cambridge, supervised by [Paul Shellard](http://www.damtp.cam.ac.uk/person/eps1) and advised by [Ulrich Sperhake](https://www.damtp.cam.ac.uk/person/us248). Thesis: [Cosmic String Radiation with Adaptive Mesh Refinement](https://www.repository.cam.ac.uk/handle/1810/322596).
+
+* July - October 2019: 4 month internship at Intel Parallel Computing Lab, Silicon Valley, California, supervised by [Alexander Heinecke](https://www.intel.com/content/www/us/en/research/researchers/alexander-heinecke.html). Project on Neural Machine Translation using TensorFlow (see [Publications and Preprints](http://localhost:4000/publications/)).
+
+October 2012 - June 2016: BA and MSci (_First Class_) in Experimental and Theoretical Physics, [Gonville and Caius College](https://www.cai.cam.ac.uk/), University of Cambridge
+
+***
+
+#### __Talks and Conferences:__
+
+_Invited Seminars_
+
+Dec 2021 - `Cookie' Seminar, Centro de Astrofísica da Universidade do Porto (CAUP)
+
+July 2021 - Parallel Session, `From cosmic strings to superstrings', Sixteenth Marcel Grossman Meeting 
+
+March 2021 - Gravitational Wave Meeting, Nikhef (virtual)
+
+March 2021 - GR Seminar, DAMTP, University of Cambridge (virtual)
+
+***
+
+#### __Awards, Grants and Fellowships__
+
+<!-- 2022 - DiRAC Resource Allocation -->
+
+2021 - University Diversity Fund, awarded grant to organise a conference at DAMTP for Women in Mathematics (to be held March 2022)
+
+2020 - Cosmos IPCC Co-investigator, ExCALIBUR Hardware and Enabling Software Grant
+
+2020 - Junior Research Fellowship, Homerton College, University of Cambridge
+
+2018 - Rayleigh-Knight Essay Prize (for write-up of new and original work)
+
+2017-19 - Gonville and Caius Travel Grant (x3)
+
+2016 - [EPSRC iCase](https://www.ukri.org/councils/epsrc/career-and-skills-development/studentships/industrial-case/) studentship in partnership with Intel, full-time fees and maintenance
+
+2016 - Gonville and Caius College Book Prize (awarded for First Class Degree result)
+
+2014 - Tutors' Donation Fund (maintenance for undergraduate research project)
