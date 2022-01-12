@@ -17,10 +17,16 @@ order: 4
 
 2020 - Video for Intel on the use of Intel oneAPI Toolkit
 
-<img src="https://amelialdrew.github.io/outreach/Screenshot.png" style="float:right">
-
 2020 - Featured in the documentary ["Universe Unravelled"](https://www.discoveryplus.co.uk/show/universe-unravelled-with-the-stephen-hawking-centre) for Discovery+. Articles on the [Gonville and Caius](https://www.cai.cam.ac.uk/news/universe-unravelled-researchers-stephen-hawking-centre-including-caian-amelia-drew-explain) and [DAMTP](http://www.ctc.cam.ac.uk/news/01Discovery.php) websites.
+
+<p align="center">
+  <img src="https://amelialdrew.github.io/outreach/Screenshot.png" width="500">
+</p>
 
 2019 - Featured in University of Cambridge [#WomenInSTEM](https://www.cam.ac.uk/research/news/women-in-stem-amelia-drew) campaign, Q&A on University homepage and social media channels
 
 2017 - [Interview with Hewlett Packard Enterprise (HPE)](https://www.youtube.com/watch?v=MgGhfuxUc44) about the benefits of in-memory computing to cosmological research. Excerpts featured in promotional video with Stephen Hawking and other members of Centre for Theoretical Cosmology.
+
+***
+
+Violinist in band [Explorers Society](https://open.spotify.com/artist/67Pelf7ypMEK2FAS15FmQ7). Album on Spotify, including song [`Cosmic Strings'](https://open.spotify.com/track/4E1leKQUmFyEz2aRpRqhC2?si=97b516cd4a674d83).

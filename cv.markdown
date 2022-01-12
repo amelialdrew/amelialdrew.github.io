@@ -19,19 +19,41 @@ October 2016 - Dec 2020:  PhD in Theoretical Physics, [DAMTP](https://www.damtp.
 
 October 2012 - June 2016: BA and MSci (_First Class_) in Experimental and Theoretical Physics, [Gonville and Caius College](https://www.cai.cam.ac.uk/), University of Cambridge
 
+* 2014: 9 week Undergraduate Research Internship, Cavendish Laboratory, University of Cambridge. Project investigating the effect of internal organ movement on dose-toxicity correlations in cancer radiotherapy.
+
 ***
 
-#### __Talks and Conferences:__
-
-_Invited Seminars_
+#### __Conference Talks and Invited Seminars:__
 
 Dec 2021 - `Cookie' Seminar, Centro de Astrofísica da Universidade do Porto (CAUP)
 
-July 2021 - Parallel Session, `From cosmic strings to superstrings', Sixteenth Marcel Grossman Meeting 
+Aug 2021 - _Session Chair_, GWVerse Global Meeting on Gravitational Waves, Black Holes and Fundamental Physics, Lisbon
 
-March 2021 - Gravitational Wave Meeting, Nikhef (virtual)
+July 2021 - Parallel Session, `From Cosmic Strings to Superstrings', MG16 (virtual)
+
+March 2021 - Invited Talk, Gravitational Wave Meeting, Nikhef (virtual)
 
 March 2021 - GR Seminar, DAMTP, University of Cambridge (virtual)
+
+Nov 2019 - _Invited Panellist:_ Discussion Session: Numerical Relativity, and Conference Talk
+
+Sept 2019 - Invited Talk, Lawrence Berkeley National Laboratory, Berkeley
+
+July 2019 - _Exhibitor_ for Intel demonstrating the Intel Rendering Framework for CREATE event with audience of approx. 700, SIGGRAPH Conference, Los Angeles
+
+<img src="https://amelialdrew.github.io/cv/SIGGRAPH.jpg" width="200" style="float:right">
+
+June 2019 - GR Seminar, DAMTP, University of Cambridge
+
+April 2019 - Conference Talk, BritGrav19, Durham University
+
+March 2019 - Talk, Cambridge-LMU Cosmology Meeting, LMU
+
+Nov 2018 - _Exhibitor_ for HPE demonstrating in-situ visualisation with Paraview Catalyst and the Intel Rendering Framework, SC18 Conference, Dallas
+
+October 2018 - Conference Talk, Cosmic Topological Defects: Dynamics and Multi-Messenger Signatures Workshop, Leiden
+
+June 2018 - Conference Talk, Numerical Relativity beyond General Relativity, Benasque
 
 ***
 
@@ -39,7 +61,7 @@ March 2021 - GR Seminar, DAMTP, University of Cambridge (virtual)
 
 <!-- 2022 - DiRAC Resource Allocation -->
 
-2021 - University Diversity Fund, awarded grant to organise a conference at DAMTP for Women in Mathematics (to be held March 2022)
+2021 - University Diversity Fund, awarded grant to organise a conference at DAMTP for women and non-binary students in Mathematics (to be held March 2022)
 
 2020 - Cosmos IPCC Co-investigator, ExCALIBUR Hardware and Enabling Software Grant
 

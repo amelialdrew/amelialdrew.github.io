@@ -7,22 +7,19 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
         {%- include social.html -%}
       </div>
 
+      <div class="footer-col footer-col-2">
+      </div>
+      
       <div class="footer-col footer-col-3">
         <p style="text-align:right;">Homerton College, Hills Road,</br>
-	Cambridge, CB2 8PH</p>
+	  Cambridge, CB2 8PH</p>
+          {%- if site.email -%}
+            <p style="text-align:right;"><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+          {%- endif -%}
+
       </div>
     </div>
 
