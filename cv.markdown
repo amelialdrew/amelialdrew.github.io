@@ -39,6 +39,8 @@ Nov 2019 - _Invited Panellist:_ Discussion Session: Numerical Relativity, and Co
 
 <p align="center"><img src="https://amelialdrew.github.io/cv/Amsterdam.png" width="400" style="float:center"></p>
 
+<div align="center"><sup>Gravitational Wave Probes of Fundamental Physics Workshop, Amsterdam. Credit: Samaya Nissanke</sup> </div>
+
 Sept 2019 - Invited Talk, Lawrence Berkeley National Laboratory, Berkeley
 
 July 2019 - _Exhibitor_ for Intel demonstrating the Intel Rendering Framework for CREATE event with audience of approx. 700, SIGGRAPH Conference, Los Angeles (see below)
