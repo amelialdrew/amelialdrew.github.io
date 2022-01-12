@@ -19,11 +19,11 @@ October 2016 - Dec 2020:  PhD in Theoretical Physics, [DAMTP](https://www.damtp.
 
 October 2012 - June 2016: BA and MSci (_First Class_) in Experimental and Theoretical Physics, [Gonville and Caius College](https://www.cai.cam.ac.uk/), University of Cambridge
 
-* 2014: 9 week Undergraduate Research Internship, Cavendish Laboratory, University of Cambridge. Project investigating the effect of internal organ movement on dose-toxicity correlations in cancer radiotherapy.
+* 2014: 9 week Undergraduate Research Internship, Cavendish Laboratory, University of Cambridge, supervised by [Karl Harrison](https://www.c2d3.cam.ac.uk/directory/466/dr-karl-harrison). Project investigating the effect of internal organ movement on dose-toxicity correlations in cancer radiotherapy.
 
 ***
 
-#### __Conference Talks and Invited Seminars:__
+#### __Selected Conference Talks and Invited Seminars:__
 
 Dec 2021 - `Cookie' Seminar, Centro de Astrofísica da Universidade do Porto (CAUP)
 
@@ -35,13 +35,17 @@ March 2021 - Invited Talk, Gravitational Wave Meeting, Nikhef (virtual)
 
 March 2021 - GR Seminar, DAMTP, University of Cambridge (virtual)
 
-Nov 2019 - _Invited Panellist:_ Discussion Session: Numerical Relativity, and Conference Talk
+Nov 2019 - _Invited Panellist:_ Discussion Session: Numerical Relativity, and Conference Talk, Gravitational Wave Probes of Fundamental Physics Workshop, Amsterdam (see below)
+
+<p align="center"><img src="https://amelialdrew.github.io/cv/Amsterdam.png" width="400" style="float:center"></p>
 
 Sept 2019 - Invited Talk, Lawrence Berkeley National Laboratory, Berkeley
 
-July 2019 - _Exhibitor_ for Intel demonstrating the Intel Rendering Framework for CREATE event with audience of approx. 700, SIGGRAPH Conference, Los Angeles
+July 2019 - _Exhibitor_ for Intel demonstrating the Intel Rendering Framework for CREATE event with audience of approx. 700, SIGGRAPH Conference, Los Angeles (see below)
 
-<img src="https://amelialdrew.github.io/cv/SIGGRAPH.jpg" width="200" style="float:right">
+<p align="center"><img src="https://amelialdrew.github.io/cv/SIGGRAPH.jpg" width="400" style="float:center"></p>
+
+<div align="center"><sup>Intel CREATE at SIGGRAPH, Los Angeles. Credit: Intel Corporation</sup> </div>
 
 June 2019 - GR Seminar, DAMTP, University of Cambridge
 
