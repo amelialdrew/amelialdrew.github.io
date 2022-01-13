@@ -2,13 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
-title: About
+layout: home
 ---
 
-![Global cosmic string with massless quadrupole radiation](ParaviewSnapshotMasslessAmp4Tilted.png)
 
-<sup>Image created together with Carson Brownlee, Intel® Advanced Rendering and Visualization Team<sup>
 
 <img src="https://amelialdrew.github.io/about/ProfilePicture.png" width="200" style="float:right">
 
@@ -18,3 +15,6 @@ My Homerton webpage is [here](https://www.homerton.cam.ac.uk/people/amelia-drew)
 
 _Last updated Jan 2022_
 
+![Global cosmic string with massless quadrupole radiation](ParaviewSnapshotMasslessAmp4Tilted.png)
+
+<sup>Image created together with Carson Brownlee, Intel® Advanced Rendering and Visualization Team<sup>
