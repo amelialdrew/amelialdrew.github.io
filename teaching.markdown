@@ -23,7 +23,11 @@ Feb 2019 - Part III (Masters) Drop-in Sessions in Numerical Solutions of Differe
 
 July 2017 - Student helper, Stephen Hawking 75th Birthday Symposium Conference, `Gravity and Black Holes,' University of Cambridge
 
+<p align="center">
+  <img src="https://amelialdrew.github.io/teaching/Hawking.jpg" width="600">
+</p>
 
+<div align="center"><sup>Stephen Hawking 75th Birthday Symposium Conference. Credit: Tobias Baldauf</sup> </div>
 
 2016 - 2021 - Undergraduate Supervisor, University of Cambridge
 
