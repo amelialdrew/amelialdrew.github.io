@@ -53,7 +53,7 @@ June 2019 - GR Seminar, DAMTP, University of Cambridge
 
 April 2019 - Conference Talk, BritGrav19, Durham University
 
-March 2019 - Talk, Cambridge-LMU Cosmology Meeting, LMU
+March 2019 - Talk, Cambridge-LMU Cosmology Meeting, LMU, Munich
 
 Nov 2018 - _Exhibitor_ for HPE demonstrating in-situ visualisation with Paraview Catalyst and the Intel Rendering Framework, SC18 Conference, Dallas
 
@@ -82,3 +82,11 @@ June 2018 - Conference Talk, Numerical Relativity beyond General Relativity, Ben
 2016 - Gonville and Caius College Book Prize (awarded for First Class Degree result)
 
 2014 - Tutors' Donation Fund (maintenance for undergraduate research project)
+
+***
+
+#### __Schools Attended__
+
+Aug 2018 - [Argonne Training Program on Extreme-Scale Computing](https://extremecomputingtraining.anl.gov/), Chicago
+
+June 2017 - School on Gravitational Waves for Cosmology and Astrophysics, Benasque
