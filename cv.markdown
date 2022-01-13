@@ -37,7 +37,7 @@ March 2021 - GR Seminar, DAMTP, University of Cambridge (virtual)
 
 Nov 2019 - _Invited Panellist:_ Discussion Session: Numerical Relativity, and Conference Talk, Gravitational Wave Probes of Fundamental Physics Workshop, Amsterdam (see below)
 
-<p align="center"><img src="https://amelialdrew.github.io/cv/Amsterdam.png" width="400" style="float:center"></p>
+<p align="center"><img src="https://amelialdrew.github.io/cv/Amsterdam3.png" width="400" style="float:center"></p>
 
 <div align="center"><sup>Gravitational Wave Probes of Fundamental Physics Workshop, Amsterdam. Credit: Samaya Nissanke</sup> </div>
 
