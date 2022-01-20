@@ -14,6 +14,8 @@ My Homerton webpage is [here](https://www.homerton.cam.ac.uk/people/amelia-drew)
 
 _Last updated Jan 2022_
 
+<br/>
+
 ![Global cosmic string with massless quadrupole radiation](ParaviewSnapshotMasslessAmp4Tilted.png)
 
-<sup>Image created together with Carson Brownlee, Intel® Advanced Rendering and Visualization Team<sup>
+<div align="center"><sup>Global cosmic string with massless quadrupole radiation. Image created together with Carson Brownlee, Intel® Advanced Rendering and Visualization Team<sup> 

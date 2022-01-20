@@ -5,8 +5,6 @@ permalink: /CV/
 order: 2
 ---
 
-***
-
 #### __Employment and Education__
 
 Oct 2021 - present:  Director of Studies, [Homerton College](https://www.homerton.cam.ac.uk/), University of Cambridge
@@ -23,6 +21,8 @@ October 2012 - June 2016: BA and MSci (_First Class_) in Experimental and Theore
 
 ***
 
+<br/>
+
 #### __Selected Conference Talks and Invited Seminars:__
 
 Dec 2021 - `Cookie' Seminar, Centro de Astrofísica da Universidade do Porto (CAUP)
@@ -37,17 +37,25 @@ March 2021 - GR Seminar, DAMTP, University of Cambridge (virtual)
 
 Nov 2019 - _Invited Panellist:_ Discussion Session: Numerical Relativity, and Conference Talk, Gravitational Wave Probes of Fundamental Physics Workshop, Amsterdam (see below)
 
+<br/>
+
 <p align="center"><img src="https://amelialdrew.github.io/cv/Amsterdam3.png" width="400" style="float:center"></p>
 
 <div align="center"><sup>Gravitational Wave Probes of Fundamental Physics Workshop, Amsterdam. Credit: Samaya Nissanke</sup> </div>
+
+<br/>
 
 Sept 2019 - Invited Talk, Lawrence Berkeley National Laboratory, Berkeley
 
 July 2019 - _Exhibitor_ for Intel demonstrating the Intel Rendering Framework for CREATE event with audience of approx. 700, SIGGRAPH Conference, Los Angeles (see below)
 
+<br/>
+
 <p align="center"><img src="https://amelialdrew.github.io/cv/SIGGRAPH.jpg" width="400" style="float:center"></p>
 
 <div align="center"><sup>Intel CREATE at SIGGRAPH, Los Angeles. Credit: Intel Corporation</sup> </div>
+
+<br/>
 
 June 2019 - GR Seminar, DAMTP, University of Cambridge
 
@@ -62,6 +70,8 @@ October 2018 - Conference Talk, Cosmic Topological Defects: Dynamics and Multi-M
 June 2018 - Conference Talk, Numerical Relativity beyond General Relativity, Benasque
 
 ***
+
+<br/>
 
 #### __Awards, Grants and Fellowships__
 
@@ -84,6 +94,8 @@ June 2018 - Conference Talk, Numerical Relativity beyond General Relativity, Ben
 2014 - Tutors' Donation Fund (maintenance for undergraduate research project)
 
 ***
+
+<br/>
 
 #### __Schools Attended__
 

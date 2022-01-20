@@ -25,9 +25,13 @@ order: 4
 
 2020 - Featured in the documentary ["Universe Unravelled"](https://www.discoveryplus.co.uk/show/universe-unravelled-with-the-stephen-hawking-centre) for Discovery+. Articles on the [Gonville and Caius](https://www.cai.cam.ac.uk/news/universe-unravelled-researchers-stephen-hawking-centre-including-caian-amelia-drew-explain) and [DAMTP](http://www.ctc.cam.ac.uk/news/01Discovery.php) websites.
 
+<br/>
+
 <p align="center">
   <img src="https://amelialdrew.github.io/outreach/Screenshot.png" width="500">
 </p>
+
+<br/>
 
 2019 - Featured in University of Cambridge [#WomenInSTEM](https://www.cam.ac.uk/research/news/women-in-stem-amelia-drew) campaign, Q&A on University homepage and social media channels
 

@@ -30,6 +30,8 @@ __PhD Thesis__
 
 ***
 
+<br/>
+
 #### Additional Publications, Preprints and Proceedings - Machine Learning and Medical Physics:
 
 __Neural networks__
