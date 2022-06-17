@@ -23,7 +23,13 @@ October 2012 - June 2016: BA and MSci (_First Class_) in Experimental and Theore
 
 <br/>
 
-#### __Selected Conference Talks and Invited Seminars:__
+#### __Selected Conferences and Invited Talks:__
+
+Oct 2022 - Invited Talk, University of Helsinki
+
+July 2022 - Invited Talk, Laboratoire d'Astroparticule et Cosmologie, Paris
+
+March 2022 - _Organiser_, GRChombo Meeting, DAMTP (hybrid)
 
 Dec 2021 - `Cookie' Seminar, Centro de Astrofísica da Universidade do Porto (CAUP)
 
@@ -61,7 +67,7 @@ June 2019 - GR Seminar, DAMTP, University of Cambridge
 
 April 2019 - Conference Talk, BritGrav19, Durham University
 
-March 2019 - Talk, Cambridge-LMU Cosmology Meeting, LMU, Munich
+<!--March 2019 - Talk, Cambridge-LMU Cosmology Meeting, LMU, Munich-->
 
 Nov 2018 - _Exhibitor_ for HPE demonstrating in-situ visualisation with Paraview Catalyst and the Intel Rendering Framework, SC18 Conference, Dallas
 
@@ -73,11 +79,26 @@ June 2018 - Conference Talk, Numerical Relativity beyond General Relativity, Ben
 
 <br/>
 
+#### __Research Visits__
+
+March 2022 - Department of Applied Mathematics and Theoretical Physics (DAMTP), Cambridge - hosted one week research visit from José Ricardo Correia (CAUP).
+
+Dec 2021 - Centro de Astrofísica da Universidade do Porto (CAUP) - one week research visit with Carlos Martins (CAUP), Patrick Peter (IAP) and José Ricardo Correia
+(CAUP). 
+
+Nov 2021 - Institut d’Astrophysique de Paris (IAP) - three day research visit with Patrick Peter (IAP) and José Ricardo Correia (CAUP).
+
+***
+
+<br/>
+
 #### __Awards, Grants and Fellowships__
 
 <!-- 2022 - DiRAC Resource Allocation -->
 
-2021 - University Diversity Fund, awarded grant to organise a conference at DAMTP for women and non-binary students in Mathematics (to be held March 2022)
+2022 - DiRAC Resource Allocation. Grant awarded 10M core hours.
+
+2021 - University Diversity Fund, awarded grant to organise a conference at DAMTP for women and non-binary students in Mathematics (held in March 2022)
 
 2020 - Cosmos IPCC Co-investigator, ExCALIBUR Hardware and Enabling Software Grant
 
