@@ -5,7 +5,7 @@ permalink: /publications/
 order: 3
 ---
 
-**A. Drew** and E. P. S. Shellard, (2022). [Radiation from Global Topological Strings using Adaptive Mesh Refinement: Massive Modes](https://arxiv.org/abs/2211.10184) [arXiV:2211.10184], _to be submitted PRD_. 
+**A. Drew** and E. P. S. Shellard, (2022). [Radiation from Global Topological Strings using Adaptive Mesh Refinement: Massive Modes](https://arxiv.org/abs/2211.10184) [arXiV:2211.10184], _accepted Physical Review D in press._. 
 
 M. Radia, U. Sperhake, **A. Drew** et al., (2022). [Lessons for adaptive mesh refinement in numerical relativity](https://iopscience.iop.org/article/10.1088/1361-6382/ac6fa9), _Classical and Quantum Gravity_, **39**, 135006.
 
@@ -16,7 +16,7 @@ T. Andrade, ... **A. Drew** ... et al., (2021). [GRChombo: An adaptable numerica
 
 __Proceedings__
 
-**A. Drew** and E. P. S. Shellard, (2021). Radiation from Global Cosmic Strings using Adaptive Mesh Refinement, _Proceedings of the Sixteenth Marcel Grossmann Meeting_, to appear in World Scientific.
+**A. Drew** and E. P. S. Shellard, (2023). Radiation from Global Cosmic Strings using Adaptive Mesh Refinement, _Proceedings of the Sixteenth Marcel Grossmann Meeting_, _World Scientific_.
 
 __White Papers__
 

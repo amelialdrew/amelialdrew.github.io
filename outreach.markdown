@@ -13,6 +13,8 @@ order: 4
 
 **2022 - Chair of `Diversity in DAMTP' conference**. Organised hybrid conference with ten talks and panel session, obtaining funding from the University Diversity Fund.
 
+2022 - Mentor, Women and Non-Binary Mentorship Scheme, Faculty of Mathematics, University of Cambridge
+
 2021 - Panellist for Part III (Masters) students considering applying for a PhD in HEP/GR in DAMTP.
 
 2021 - Outreach Lecture: [A revolution in physics? Evidence for a new force of nature from the Fermilab accelerator](https://www.youtube.com/watch?v=Th5UfKpJk3w). Delivered for Homerton College and at University of Cambridge Alumni Festival.
@@ -23,8 +25,7 @@ order: 4
 
 2021 - Panellist for [`The Big Bang and Black Holes - Public Lecture'](https://youtu.be/LQ5lHKm7c8M?t=11860) (Stephen Hawking Foundation and Intel Corporation). Livestreamed on University of Cambridge YouTube and Facebook channels.
 
-
-2021 - present - Mentor for [Cambridge University Women in Science](https://www.camwis.co.uk/).
+2021 - Mentor, [Cambridge University Women in Science](https://www.camwis.co.uk/).
 
 2020 - Filmed videos for Intel on the use of Intel oneAPI Toolkit (e.g. [here](https://www.facebook.com/IntelDevTools/videos/hear-how-amelia-drew-at-homerton-college-cambridge-and-her-team-of-developers-us/131244772495211/)).
 

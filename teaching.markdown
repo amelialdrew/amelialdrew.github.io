@@ -9,9 +9,11 @@ Oct 2021 - present - Director of Studies in Physics, Homerton College, Universit
 
 Feb - March 2021 - Demonstrator, Part IB Scientific Computing for Natural Sciences (online)
 
-Dec 2020 and 2021 - Interviewer for Undergraduate Admissions (Natural Sciences), Homerton College, University of Cambridge
+Dec 2020/21/22 - Interviewer for Undergraduate Admissions (Natural Sciences), Homerton College, University of Cambridge
 
-2020 - present - Equality and Diversity Committee, Performance Arts Working Group and IT Committee, Homerton College, University of Cambridge
+Oct 2020 - present - Equality and Diversity Committee and Performance Arts Working Group, Homerton College, University of Cambridge
+
+Oct 2020 - 2022 - IT Committee, Homerton College, University of Cambridge
 
 Oct 2020 - present - General Relativity Journal Club Organiser, DAMTP, University of Cambridge
 

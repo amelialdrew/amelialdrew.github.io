@@ -25,17 +25,17 @@ October 2012 - June 2016: BA and MSci (_First Class_) in Experimental and Theore
 
 #### __Selected Conferences and Invited Talks:__
 
-Dec 2022 - Invited Talk, Superconducting Strings Workshop, Institut d’Astrophysique de Paris (IAP), Paris
+Dec 2022 - Invited Talk, Superconducting Strings Workshop, Institut d’Astrophysique de Paris (IAP)
 
-Nov 2022 - Invited Talk, Gravitation Group Seminar, Laboratoire d'Astroparticule et Cosmologie (APC), Paris
+Nov 2022 - Invited Talk, Gravitation Group Seminar, Laboratoire d'Astroparticule et Cosmologie (APC)
 
 Nov 2022 - Invited Talk, Helsinki Institute of Physics (HIP)  Seminar, University of Helsinki
 
-March 2022 - _Organiser_, GRChombo Meeting, DAMTP (hybrid)
+March 2022 - Organiser, GRChombo Meeting, DAMTP (hybrid)
 
 Dec 2021 - `Cookie' Seminar, Centro de Astrofísica da Universidade do Porto (CAUP)
 
-Aug 2021 - _Session Chair_, GWVerse Global Meeting on Gravitational Waves, Black Holes and Fundamental Physics, Lisbon
+Aug 2021 - Session Chair, GWVerse Global Meeting on Gravitational Waves, Black Holes and Fundamental Physics, Lisbon
 
 July 2021 - Parallel Session, `From Cosmic Strings to Superstrings', MG16 (virtual)
 
@@ -43,7 +43,7 @@ March 2021 - Invited Talk, Gravitational Wave Meeting, Nikhef (virtual)
 
 March 2021 - GR Seminar, DAMTP, University of Cambridge (virtual)
 
-Nov 2019 - _Invited Panellist:_ Discussion Session: Numerical Relativity, and Conference Talk, Gravitational Wave Probes of Fundamental Physics Workshop, Amsterdam (see below)
+Nov 2019 - Invited Panellist: Discussion Session: Numerical Relativity, and Conference Talk, Gravitational Wave Probes of Fundamental Physics Workshop, Amsterdam (see below)
 
 <br/>
 
@@ -55,7 +55,7 @@ Nov 2019 - _Invited Panellist:_ Discussion Session: Numerical Relativity, and Co
 
 Sept 2019 - Invited Talk, Lawrence Berkeley National Laboratory, Berkeley
 
-July 2019 - _Exhibitor_ for Intel demonstrating the Intel Rendering Framework for CREATE event with audience of approx. 700, SIGGRAPH Conference, Los Angeles (see below)
+July 2019 - Exhibitor for Intel demonstrating the Intel Rendering Framework for CREATE event with audience of approx. 700, SIGGRAPH Conference, Los Angeles (see below)
 
 <br/>
 
@@ -71,7 +71,7 @@ April 2019 - Conference Talk, BritGrav19, Durham University
 
 <!--March 2019 - Talk, Cambridge-LMU Cosmology Meeting, LMU, Munich-->
 
-Nov 2018 - _Exhibitor_ for HPE demonstrating in-situ visualisation with Paraview Catalyst and the Intel Rendering Framework, SC18 Conference, Dallas
+Nov 2018 - Exhibitor for HPE demonstrating in-situ visualisation with Paraview Catalyst and the Intel Rendering Framework, SC18 Conference, Dallas
 
 October 2018 - Conference Talk, Cosmic Topological Defects: Dynamics and Multi-Messenger Signatures Workshop, Leiden
 
