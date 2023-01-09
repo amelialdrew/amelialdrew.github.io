@@ -85,7 +85,7 @@ June 2018 - Conference Talk, Numerical Relativity beyond General Relativity, Ben
 
 November 2022 - Gravitation Group, Laboratoire d'Astroparticule et Cosmologie (APC), Paris - one week research visit with Danièle Steer (APC).
 
-November 2022 - Helsinki Institute of Physics, University of Helsinki - one week research visit with David Weir, José Ricardo Correia and Mark Hindmarsh (all HIP).
+November 2022 - Helsinki Institute of Physics (HIP), University of Helsinki - one week research visit with David Weir, José Ricardo Correia and Mark Hindmarsh (all HIP).
 
 March 2022 - Department of Applied Mathematics and Theoretical Physics (DAMTP), Cambridge - hosted one week research visit from José Ricardo Correia (CAUP).
 
