@@ -25,9 +25,11 @@ October 2012 - June 2016: BA and MSci (_First Class_) in Experimental and Theore
 
 #### __Selected Conferences and Invited Talks:__
 
-Oct 2022 - Invited Talk, University of Helsinki
+Dec 2022 - Invited Talk, Superconducting Strings Workshop, Institut d’Astrophysique de Paris (IAP), Paris
 
-July 2022 - Invited Talk, Laboratoire d'Astroparticule et Cosmologie, Paris
+Nov 2022 - Invited Talk, Gravitation Group Seminar, Laboratoire d'Astroparticule et Cosmologie (APC), Paris
+
+Nov 2022 - Invited Talk, Helsinki Institute of Physics (HIP)  Seminar, University of Helsinki
 
 March 2022 - _Organiser_, GRChombo Meeting, DAMTP (hybrid)
 
@@ -80,6 +82,10 @@ June 2018 - Conference Talk, Numerical Relativity beyond General Relativity, Ben
 <br/>
 
 #### __Research Visits__
+
+November 2022 - Gravitation Group, Laboratoire d'Astroparticule et Cosmologie (APC), Paris - one week research visit with Danièle Steer (APC).
+
+November 2022 - Helsinki Institute of Physics, University of Helsinki - one week research visit with David Weir, José Ricardo Correia and Mark Hindmarsh (all HIP).
 
 March 2022 - Department of Applied Mathematics and Theoretical Physics (DAMTP), Cambridge - hosted one week research visit from José Ricardo Correia (CAUP).
 
