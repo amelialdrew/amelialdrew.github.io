@@ -16,7 +16,7 @@ T. Andrade, ... **A. Drew** ... et al., (2021). [GRChombo: An adaptable numerica
 
 __Proceedings__
 
-**A. Drew** and E. P. S. Shellard, (2023). Radiation from Global Cosmic Strings using Adaptive Mesh Refinement, _Proceedings of the Sixteenth Marcel Grossmann Meeting_, _World Scientific_.
+**A. Drew** and E. P. S. Shellard, (2023). [Radiation from Global Cosmic Strings using Adaptive Mesh Refinement](https://www.worldscientific.com/worldscibooks/10.1142/13149#t=aboutBook), _Proceedings of the Sixteenth Marcel Grossmann Meeting_, _World Scientific_.
 
 __White Papers__
 
@@ -36,7 +36,7 @@ __PhD Thesis__
 
 __Neural networks__
 
-**A. Drew** and A. Heinecke, (2019). Training Neural Machine Translation (NMT) Models using Tensor Train Decomposition on TensorFlow (T3F), *arXiv:1911.01933*.
+**A. Drew** and A. Heinecke, (2019). [Training Neural Machine Translation (NMT) Models using Tensor Train Decomposition on TensorFlow (T3F)](https:://arXiv:1911.01933), *arXiv:1911.01933*.
 
 __Cancer Imaging__
 
