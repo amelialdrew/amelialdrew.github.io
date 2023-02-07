@@ -25,6 +25,8 @@ October 2012 - June 2016: BA and MSci (_First Class_) in Experimental and Theore
 
 #### __Selected Conferences and Invited Talks:__
 
+Feb 2022 - Invited Talk, COST Action Kick-off Meeting, COSMIC WISPers in the Dark Universe, Laboratori Nazionali di Frascati
+
 Dec 2022 - Invited Talk, Superconducting Strings Workshop, Institut d’Astrophysique de Paris (IAP)
 
 Nov 2022 - Invited Talk, Gravitation Group Seminar, Laboratoire d'Astroparticule et Cosmologie (APC)
@@ -107,6 +109,8 @@ Nov 2021 - Institut d’Astrophysique de Paris (IAP) - three day research visit 
 2022 - DiRAC Resource Allocation. Grant awarded 10M core hours.
 
 2021 - University Diversity Fund, awarded grant to organise a conference at DAMTP for women and non-binary students in Mathematics (held in March 2022)
+
+2021 - GWIC-Braccini Thesis Prize Honourable Mention
 
 2020 - Cosmos IPCC Co-investigator, ExCALIBUR Hardware and Enabling Software Grant
 
