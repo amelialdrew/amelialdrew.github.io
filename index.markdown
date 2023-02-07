@@ -12,7 +12,7 @@ Hello! I am a Junior Research Fellow in Theoretical Physics and Director of Stud
 
 My Homerton webpage is [here](https://www.homerton.cam.ac.uk/people/amelia-drew), and my DAMTP webpage [here](https://www.damtp.cam.ac.uk/person/ad652).
 
-_Last updated Jan 2023_
+_Last updated Feb 2023_
 
 <br/>
 
