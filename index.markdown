@@ -8,7 +8,7 @@ title: About
 
 <img src="https://amelialdrew.github.io/about/ProfilePicture2.png" width="250" style="float:right">
 
-Hello! I am a Junior Research Fellow in Theoretical Physics and Director of Studies in Physics at Homerton College, University of Cambridge. I am based at the Department of Applied Mathematics and Theoretical Physics (DAMTP). My research focuses on numerical simulation of radiative signatures from cosmic (axion) strings using adaptive mesh refinement (AMR). I am also a developer and user of [GRChombo](https://www.grchombo.org/), an open-source AMR code for numerical relativity.
+Hello! I am a Junior Research Fellow in Theoretical Physics and Director of Studies in Physics at Homerton College, University of Cambridge. I am based at the Department of Applied Mathematics and Theoretical Physics (DAMTP). My current research focus is the numerical simulation of radiative signatures from cosmic (axion) strings using adaptive mesh refinement (AMR). I am also a developer and user of [GRChombo](https://www.grchombo.org/), an open-source AMR code for numerical relativity.
 
 My Homerton webpage is [here](https://www.homerton.cam.ac.uk/people/amelia-drew), and my DAMTP webpage [here](https://www.damtp.cam.ac.uk/person/ad652).
 
@@ -20,6 +20,6 @@ _Last updated Feb 2023_
 
 <br/>
 
-![Global cosmic string with massless quadrupole radiation](ParaviewSnapshotMasslessAmp4Tilted.png)
+![Global cosmic string with massless axion radiation](ParaviewSnapshotMasslessAmp4Tilted.png)
 
 <!---<div align="center"><sup>Global cosmic string with massless quadrupole radiation. Image created together with Carson Brownlee, Intel® Advanced Rendering and Visualization Team<sup>--->
