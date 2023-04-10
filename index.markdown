@@ -22,4 +22,4 @@ _Last updated Feb 2023_
 
 ![Global cosmic string with massless axion radiation](ParaviewSnapshotMasslessAmp4Tilted.png)
 
-<!---<div align="center"><sup>Global cosmic string with massless quadrupole radiation. Image created together with Carson Brownlee, Intel® Advanced Rendering and Visualization Team<sup>--->
+<!---<div align="center"><sup>Global cosmic string with massless axion radiation. Image created together with Carson Brownlee, Intel® Advanced Rendering and Visualization Team<sup>--->
